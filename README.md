@@ -7,6 +7,10 @@ This is an example to show different parts of git repository and various command
 
 ## Purpose
 
+As stated above, it is am example of git training. 
+
 ## Deployment
+
+This is a simple web project and could be deployed on any web server or even local file systems. 
 
 ## How to contribute
