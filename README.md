@@ -14,6 +14,7 @@ As stated above, it is am example of git training.
 This is a simple web project and could be deployed on any web server or even local file systems. 
 
 ## How to contribute
+Please fork this repo and issue pull requests for review. 
 
 ### Copyright
 Git demo 2019
