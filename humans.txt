@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Yixin Wu 	ywu@lsu.edu
 
 # THANKS
 
