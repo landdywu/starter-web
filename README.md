@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project to show how to use git and github together. 
-Adding a line for rebase example.
+Adding a line for rebase example. More change from myfeature branch too. 
 
 ## Introduction
 
