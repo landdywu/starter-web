@@ -19,4 +19,4 @@ This is a simple web project and could be deployed on any web server or even loc
 Please fork this repo and issue pull requests for review. 
 
 ### Copyright
-Git demo 2019
+Git demo 2019. All rights reserved. 
